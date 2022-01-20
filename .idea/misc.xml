@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/drawable/user.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/activity_customers.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/activity_transactions.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/activity_transfer_money.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/customer_data.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/list_design.xml" value="0.25" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/send_money.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/layout/transaction_list.xml" value="0.22" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Rutuja/AndroidStudioProjects/BankApp/app/src/main/res/menu/transaction_history.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
